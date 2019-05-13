@@ -1,0 +1,83 @@
+# adarsh
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("abc.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+a:link, a:visited {
+  background-color:	#4682B4;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color:	#708090;
+  
+}
+h1 {  color: #C0C0C0;
+  text-align: center;
+   text-shadow: 0 0 3px #FF0000;
+}
+p {
+font-size: 30px;
+color: white;
+font-style: italic;
+font-style: bold;
+text-align: left;
+position: absolute;
+left: 650px;
+width: 100%;
+
+}
+ul {
+  font-size: 25px;
+  color: white;
+  text-align: left;
+  position: absolute;
+  right: 650px;
+  top: 200px;
+}
+</style>
+</head>
+<body>
+<table border="0" cellpadding=""  cellspacing="" >
+<tr >
+<td><a href="file:///C:/Users/Adarsh/Documents/home.html">HOME</a></td>
+<td><a href="file:///C:/Users/Adarsh/Documents/academics.html">ACADEMICS</a></td>
+<td><a href="file:///C:/Users/Adarsh/Documents/hobbies.html">HOBBIES</a></td>
+<td><a href="file:///C:/Users/Adarsh/Documents/about_me.html">ABOUT ME</a></td>
+<td><a href="file:///C:/Users/Adarsh/Documents/contact.html">CONTACT ME</a></td>
+</tr>
+</table>
+
+<h1>HOBBIES</h1>
+
+<p>
+I dont have very interesting hobbies(but who cares), those are: 
+</p>
+<ul>
+  <li>
+    Playing cricket. 
+  </li>
+ <li>
+   Dancing.
+ </li>
+ <li>
+   Singing.
+ </li>
+ <li>
+   Playing guitar.
+ </li>
+ <li>
+   sometimes coding.
+ </li>
+</ul>
+
+</body>
+</html>
