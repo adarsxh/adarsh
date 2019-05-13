@@ -1,0 +1,163 @@
+# adarsh
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-image: url("abc.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+a.nav:link, a.nav:visited {
+  background-color:	#4682B4;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a.nav :hover, a.nav:active {
+  background-color:	#708090;
+  
+}
+h1 {  color:#C0C0C0;
+  text-align: center;
+   text-shadow: 0 0 3px #FF0000;
+   position: absolute;
+   text-align: right;
+   right: 500px;
+}
+p {
+font-size: 30px;
+color: white;
+font-style: italic;
+font-style: bold;
+
+width: 1%;
+
+}
+ul {
+  font-size: 25px;
+}
+td {
+  border-radius: 5px;
+}
+
+a.fb {
+  position: absolute;
+  top: 150px;
+  right: 800px;
+}
+p.fb{
+ position: absolute;
+  top: 125px;
+  right: 750px;
+  
+  color: white;
+
+}
+a.in{
+  position: absolute;
+  top: 230px;
+  right: 800px;
+
+}
+p.in{
+   position: absolute;
+  top: 205px;
+  right: 750px;
+  
+  color: white;
+
+}
+a.gm{
+   position: absolute;
+  top: 310px;
+  right: 800px;
+
+}
+p.gm{
+   position: absolute;
+  top: 285px;
+  right: 750px;
+
+}
+img.wt{
+   position: absolute;
+  top: 390px;
+  right: 800px;
+
+}
+p.wt{
+   position: absolute;
+  top: 365px;
+  right: 750px;
+}
+a.gt{
+  position: absolute;
+  top: 470px;
+  right: 800px;
+
+}
+p.gt{
+  position: absolute;
+  top: 445px;
+  right: 750px;
+}
+p.end{
+  font-size: 40px;
+  text-align: right;
+   position: absolute;
+  top: 555px;
+  right: 850px;
+
+}
+</style>
+</head>
+<body>
+<table border="0" cellpadding=""  cellspacing="" >
+<tr >
+<td><a class="nav" href="file:///C:/Users/Adarsh/Documents/home.html">HOME</a></td>
+<td><a class="nav" href="file:///C:/Users/Adarsh/Documents/academics.html">ACADEMICS</a></td>
+<td><a class="nav" href="file:///C:/Users/Adarsh/Documents/hobbies.html">HOBBIES</a></td>
+<td><a class="nav" href="file:///C:/Users/Adarsh/Documents/about_me.html">ABOUT ME</a></td>
+<td><a class="nav" href="file:///C:/Users/Adarsh/Documents/contact.html">CONTACT ME</a></td>
+</tr>
+
+</table>
+
+<h1>CONTACT ME</h1>
+
+
+  <a href="https://www.facebook.com/adarsh.kesarwani.79" class="fb">
+    <img src="fb.png" style="height: 50px; width: 50px">
+  </a>
+  <p class="fb">
+    Adarsh
+  </p>
+  <a href="https://www.instagram.com/adarsxh/?hl=en" class="in">
+    <img src="inst.jpg" style="height: 50px;width: 50px">
+  </a>
+  <p class="in">
+    adarsxh
+  </p>
+  <a href="https://mail.google.com/mail/ca/u/2/#inbox" class="gm">
+    <img src="gmail.png" style="height: 40px;width: 60px">
+  </a>
+  <p class="gm">
+    adarsxh.iitlgp@gmail.com
+  </p>
+  <img src="wt.jpg" style="height: 50px;width: 50px" class="wt">
+  <p class="wt"> 9672499907</p>
+  <a href="https://github.com/" class="gt">
+    <img src="GitHub.png" style="height: 50px;width: 50px" >
+  </a>
+  <p class="gt">
+    adarsxh
+  </p>
+  <p class="end">
+    Thanks
+  </p>
+
+</body>
+</html>
